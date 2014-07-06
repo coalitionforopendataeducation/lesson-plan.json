@@ -9,7 +9,7 @@ lesson-plan.json looks like this:
 	"module": "Example Title of Learning Module",
 	"creation date": "yyyy-mm-dd",
 	"last modified": "yyyy-mm-dd",
-	"repository": "https://github.com/coalitionforopendataeducation/ggplot2-introduction"
+	"repository": "https://github.com/coalitionforopendataeducation/ggplot2-introduction",
 	"Languages": [
 		"R",
 	],
